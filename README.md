@@ -15,7 +15,6 @@ Data Visualization
 The data for this project is sourced from the Kaggle dataset:
 
 - **Dataset:** [Netflix Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
-- 
 
 # Key Insights
 Netflix contains 8,807 titles.

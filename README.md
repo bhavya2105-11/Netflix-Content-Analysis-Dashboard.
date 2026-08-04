@@ -18,8 +18,12 @@ The data for this project is sourced from the Kaggle dataset:
 
 # Key Insights
 -Netflix contains 8,807 titles.
+
 -Movies account for the majority of the content library.
+
 -The average movie duration is 100 minutes.
+
 -Most Netflix content falls under mature audience ratings.
+
 -Content additions increased significantly after 2015.
 
